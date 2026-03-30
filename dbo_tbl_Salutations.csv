@@ -1,0 +1,7 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+SalutationID,int,NO
+CountryRecordID,int,NO
+Salutation,nvarchar,NO
+SalutationTitle,nvarchar,YES
+Status,int,NO
+SalutationFormat,nvarchar,YES

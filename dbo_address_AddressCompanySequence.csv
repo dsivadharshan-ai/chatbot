@@ -1,0 +1,5 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+CompanyRecordID,int,YES
+AddressRecordID,int,YES
+GroupRecordID,int,YES
+AddressSequence,bigint,YES

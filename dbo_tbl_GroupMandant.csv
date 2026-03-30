@@ -1,0 +1,5 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+GroupMandantRecordID,int,NO
+GroupRecordID,int,NO
+MandantID,int,NO
+GroupMandantStatus,int,NO

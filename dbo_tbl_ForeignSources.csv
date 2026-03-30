@@ -1,0 +1,5 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+SourceId,int,NO
+SourceName,nvarchar,NO
+SourceShortName,nvarchar,NO
+SourceActive,int,NO

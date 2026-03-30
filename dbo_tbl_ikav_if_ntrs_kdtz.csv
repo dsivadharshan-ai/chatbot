@@ -1,0 +1,11 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+f_id,int,YES
+id_adm,int,YES
+mndt,smallint,YES
+adrk,int,YES
+grtp,int,YES
+tz,float,YES
+rab,float,YES
+busr,char,YES
+spid,int,YES
+bzt,datetime,YES

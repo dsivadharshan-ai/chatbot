@@ -1,0 +1,6 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+DefaultAccessId,int,NO
+Mandant,int,YES
+AccessFor,varchar,YES
+GroupId,int,YES
+Status,int,NO

@@ -1,0 +1,4 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ValidationStatusId,int,NO
+ValidationStatusName,varchar,YES
+ValidationStatusCode,varchar,YES

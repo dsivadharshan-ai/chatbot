@@ -1,0 +1,17 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+LogID,int,NO
+HistoryID,int,YES
+ContactId,int,YES
+EntityTypeId,int,YES
+ContactStatus,int,YES
+Letter,nvarchar,YES
+ContactType,nvarchar,YES
+CreatedBy,int,YES
+CreatedByName,nvarchar,YES
+CreatedTime,datetime,YES
+MandantID,int,YES
+OperationType,varchar,YES
+ChangedBy,nvarchar,YES
+ChangeTime,datetime,YES
+OldValue,nvarchar,YES
+NewValue,nvarchar,YES

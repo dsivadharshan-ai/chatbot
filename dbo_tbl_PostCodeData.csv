@@ -1,0 +1,10 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+PostCodeDataID,int,NO
+CountryCode,nvarchar,NO
+PostCode,nvarchar,NO
+City,nvarchar,YES
+State,nvarchar,YES
+StateCode,nvarchar,YES
+Latitude,decimal,YES
+Longitude,decimal,YES
+UpdatedOn,datetime,NO

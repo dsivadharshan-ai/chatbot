@@ -1,0 +1,17 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+address_id,int,NO
+address_name1,nvarchar,YES
+address_name2,nvarchar,YES
+addess_line1,nvarchar,YES
+addess_line2,nvarchar,YES
+addess_line3,nvarchar,YES
+addess_line4,nvarchar,YES
+address_name,nvarchar,YES
+address_lines,nvarchar,YES
+postcode,nvarchar,YES
+city,nvarchar,YES
+post_code_city,nvarchar,NO
+country_id,int,YES
+ikavios_adrad_adrk,int,YES
+ForeignDataSource,varchar,YES
+ForeignRecordID,int,YES

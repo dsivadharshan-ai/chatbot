@@ -1,0 +1,11 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+AddressCCRecordID,int,NO
+MandantID,int,YES
+AddressRecordID,int,YES
+CompanyRecordID,int,YES
+ContactRecordID,int,YES
+GroupRecordID,int,YES
+PersonGroupRecordID,int,YES
+ForeignDataSource,varchar,YES
+ForeignRecordID,varchar,YES
+AddressCCActive,smallint,NO

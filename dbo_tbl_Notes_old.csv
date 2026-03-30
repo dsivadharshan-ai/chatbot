@@ -1,0 +1,6 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+NoteRecordID,int,NO
+NoteCompanyRecordID,int,NO
+NoteContactRecordID,int,NO
+NoteAddressRecordID,int,NO
+NoteContent,nvarchar,YES

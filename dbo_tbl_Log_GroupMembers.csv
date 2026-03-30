@@ -1,0 +1,11 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+GroupMemberLogID,int,NO
+GroupMemberRecordID,int,NO
+GroupRecordID,int,NO
+EntityTypeID,int,NO
+EntityOldRecordID,int,YES
+EntityNewRecordID,int,YES
+Username,varchar,NO
+Operation,varchar,NO
+OperationID,varchar,YES
+LoggedDate,datetime,NO

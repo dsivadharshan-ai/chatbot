@@ -1,0 +1,13 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+GroupTypeRecordID,int,NO
+GroupTypeName,nvarchar,NO
+GroupTypeLabel,nchar,YES
+GroupTypeDescription,nvarchar,YES
+GroupTypeCode,nvarchar,YES
+ikavios_grtp_typ,int,YES
+ForeignDataSource,varchar,YES
+ForeignRecordID,varchar,YES
+MandantId,int,YES
+SortOrder,int,YES
+GroupTypeStatus,int,NO
+ParentGroupTypeRecordID,int,YES

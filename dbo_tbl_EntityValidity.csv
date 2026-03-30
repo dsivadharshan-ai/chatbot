@@ -1,0 +1,6 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ValidityID,int,NO
+EntityTypeID,int,YES
+EntityRecordID,int,YES
+ValidFrom,datetime,YES
+ValidTo,datetime,YES

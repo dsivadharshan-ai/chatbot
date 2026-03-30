@@ -1,0 +1,9 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ChannelLogRecordID,int,NO
+ChannelRecordID,int,NO
+EntityTypeID,int,YES
+EntityOldRecordID,int,YES
+EntityNewRecordID,int,YES
+ChannelActive,int,YES
+UserName,nvarchar,YES
+CreatedOn,datetime,YES

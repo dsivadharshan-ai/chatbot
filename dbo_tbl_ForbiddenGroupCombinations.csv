@@ -1,0 +1,9 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+CombinationID,int,NO
+GroupRecordID1,int,NO
+GroupRecordID2,int,NO
+PriorityGroupRecordID,int,NO
+CreatedTime,datetime,NO
+CreatedBy,int,NO
+Status,int,NO
+Comment,nvarchar,YES

@@ -1,0 +1,6 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+IkaviosCustomerChangeLogId,int,NO
+ikavios_adrrf_id,int,NO
+ikavios_adrk,int,NO
+ikavios_mndt,int,NO
+CreatedDate,datetime,NO

@@ -1,0 +1,3 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+EntityTypeID,int,NO
+EntityTypeName,nvarchar,YES

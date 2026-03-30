@@ -1,0 +1,10 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+CountryRecordID,int,NO
+CountryName,nvarchar,YES
+CountryCodeISO2,char,YES
+CountryCodeISO3,char,YES
+TelephoneCode,nvarchar,YES
+IkaviosGroupType,int,YES
+IkaviosGroupNo,int,YES
+Source,varchar,YES
+Status,int,NO

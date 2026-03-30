@@ -1,0 +1,8 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+PhoneCodeID,int,NO
+CountryCode,nvarchar,NO
+DialCode,nvarchar,NO
+AreaCodeLength,int,NO
+DisplayFormat,nvarchar,NO
+EditFormat,nvarchar,NO
+UpdatedOn,datetime,NO

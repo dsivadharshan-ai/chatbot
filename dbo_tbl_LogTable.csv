@@ -1,0 +1,14 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+LogTableID,int,NO
+TableName,varchar,NO
+RecordID,varchar,NO
+Operation,varchar,NO
+OperationTime,datetime,YES
+OldData,nvarchar,YES
+NewData,nvarchar,YES
+UpdatedField,nvarchar,YES
+MandantID,int,YES
+EntityTypeID,int,YES
+UserName,nvarchar,YES
+Comment,nvarchar,YES
+Status,int,NO

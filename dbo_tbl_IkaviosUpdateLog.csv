@@ -1,0 +1,14 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+UpdateLogId,int,NO
+EntityTypeId,int,YES
+EntityRecordId,int,YES
+ValidationId,int,YES
+OldEntityData,nvarchar,YES
+NewEntityData,nvarchar,YES
+OldIkaviosData,nvarchar,YES
+NewIkaviosData,nvarchar,YES
+CreatedAt,datetime,NO
+UpdatedAt,datetime,YES
+UpdatedBy,int,YES
+Comment,nvarchar,YES
+Status,int,NO

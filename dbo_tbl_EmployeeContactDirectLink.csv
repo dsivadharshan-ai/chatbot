@@ -1,0 +1,10 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+EmployeeContactDirectLinkId,int,NO
+EmployeeId,int,NO
+ContactId,int,NO
+ikavios_adrk,int,YES
+Mandant,int,NO
+ValidFrom,datetime,YES
+ValidTo,datetime,YES
+Status,int,NO
+CreatedTime,datetime,NO

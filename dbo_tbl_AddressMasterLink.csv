@@ -1,0 +1,9 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+AddressMasterLinkId,int,NO
+AddressRecordId,int,YES
+CountryMasterId,int,YES
+StateMasterId,int,YES
+CityMasterId,int,YES
+Status,int,NO
+CreatedAt,datetime,NO
+CreatedBy,int,YES

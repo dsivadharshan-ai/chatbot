@@ -1,0 +1,8 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+AdmitoIkaviosReferenceRecordID,int,NO
+MandantID,int,NO
+ikavios_adrrf_id,int,NO
+EntityTypeID,int,NO
+EntityRecordID,int,NO
+merged_ikavios_adrrf_id,int,NO
+TopEntityId,int,NO

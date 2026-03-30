@@ -1,0 +1,11 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+AddressCompanyPersonLogID,int,NO
+AddressCCRecordID,int,NO
+MandantID,int,YES
+EntityTypeID,int,YES
+EntityOldRecordID,int,YES
+EntityNewRecordID,int,YES
+Username,varchar,NO
+Operation,varchar,NO
+OperationID,varchar,YES
+LoggedDate,datetime,NO

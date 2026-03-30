@@ -1,0 +1,5 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+MetaInfoRecordID,int,YES
+TableID,int,YES
+RecordID,int,YES
+MetaInfo,nvarchar,YES

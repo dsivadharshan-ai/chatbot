@@ -1,0 +1,9 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+LayoutId,int,NO
+LayoutName,nvarchar,NO
+PageCode,nvarchar,NO
+LayoutData,varbinary,NO
+FilterString,nvarchar,YES
+Status,int,NO
+CreatedDate,datetime,NO
+CreatedBy,nvarchar,NO

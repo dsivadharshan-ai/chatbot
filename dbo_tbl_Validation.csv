@@ -1,0 +1,10 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ValidationId,int,NO
+EntityTypeId,int,NO
+EntityRecordId,int,NO
+DataBeforeValidation,nvarchar,YES
+ValidatedData,nvarchar,YES
+ValidationStatus,int,NO
+IsDataSynced,bit,NO
+ValidatedDate,datetime,NO
+ValidatedBy,nvarchar,YES

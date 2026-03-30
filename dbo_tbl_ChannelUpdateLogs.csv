@@ -1,0 +1,9 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ChanneUpdatelLogId,int,NO
+OldChannelRecordId,int,NO
+NewChannelRecordId,int,YES
+ChannelOldValue,nvarchar,YES
+ChannelNewValue,nvarchar,YES
+UpdateType,nvarchar,YES
+CreatedDate,datetime,NO
+Username,nvarchar,YES

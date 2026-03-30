@@ -1,0 +1,10 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ForeignContactTypeLinkId,int,NO
+CompanyId,int,YES
+ContactTypeGroupId,int,YES
+EntityTypeId,int,YES
+EntityId,int,YES
+ForeignRecordId,int,YES
+ForeignDataSource,nvarchar,YES
+Status,int,NO
+CreatedDate,datetime,NO

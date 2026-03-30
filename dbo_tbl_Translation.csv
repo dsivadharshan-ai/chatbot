@@ -1,0 +1,9 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+TranslationId,int,NO
+ReferenceTable,nvarchar,NO
+ReferenceId,int,NO
+LanguageCode,nvarchar,NO
+FieldName,nvarchar,NO
+TranslatedValue,nvarchar,NO
+CreatedAt,datetime,NO
+CreatedBy,int,NO

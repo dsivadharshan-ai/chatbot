@@ -1,0 +1,8 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+IkaviosReferenceRecordId,int,NO
+MandantId,int,NO
+ikavios_adrrf_id,int,NO
+CompanyRecordID,int,NO
+AddressRecordID,int,YES
+ContactRecordID,int,YES
+ChannelRecordID,int,YES

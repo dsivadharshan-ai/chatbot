@@ -1,0 +1,6 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+CountryMasterID,int,NO
+Alpha_2,nchar,YES
+Alpha_3,nchar,YES
+CountryName,nvarchar,NO
+Status,int,NO

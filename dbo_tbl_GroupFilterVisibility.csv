@@ -1,0 +1,6 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+GroupFilterId,int,NO
+CompanyId,int,NO
+GroupTypeId,int,NO
+SortOrder,int,NO
+Visible,int,NO

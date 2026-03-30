@@ -1,0 +1,4 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+DialCode,varchar,YES
+EditFormat,varchar,YES
+DisplayFormat,varchar,YES

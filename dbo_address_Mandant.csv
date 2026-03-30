@@ -1,0 +1,4 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+mndt,varchar,YES
+company_id,int,YES
+address_id,int,YES

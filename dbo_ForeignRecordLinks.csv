@@ -1,0 +1,8 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+ForeignRecordLinkID,int,NO
+TableName,nchar,YES
+RecordID,int,YES
+ForeignDataSource,nchar,YES
+ForeignRecordID,int,YES
+Status,int,YES
+CreatedDate,datetime,NO

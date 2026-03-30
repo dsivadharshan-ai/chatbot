@@ -1,0 +1,8 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+NoteID,int,NO
+EntityTypeID,int,NO
+EntityRecordID,int,NO
+NoteContent,nvarchar,NO
+CreatedDate,datetime,YES
+UserName,nvarchar,YES
+MandantID,int,YES

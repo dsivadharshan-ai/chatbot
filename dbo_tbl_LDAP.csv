@@ -1,0 +1,5 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+LDAPId,int,NO
+DomainController,varchar,YES
+IsDefault,int,YES
+CreatedDate,datetime,YES

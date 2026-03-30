@@ -1,0 +1,4 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+CountryCode,char,NO
+Template,nvarchar,NO
+Options,nvarchar,YES

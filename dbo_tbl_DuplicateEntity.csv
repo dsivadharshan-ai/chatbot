@@ -1,0 +1,12 @@
+COLUMN_NAME,DATA_TYPE,IS_NULLABLE
+DuplicateEntityId,int,NO
+EntityTypeId,int,NO
+MainEntityRecordId,int,NO
+DuplicateEntityRecordId,int,NO
+Status,tinyint,NO
+Score,decimal,YES
+Note,nvarchar,YES
+CreatedBy,nvarchar,YES
+CreatedAt,datetime2,NO
+UpdatedBy,nvarchar,YES
+UpdatedAt,datetime2,NO
